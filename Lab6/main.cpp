@@ -118,7 +118,7 @@ int main(int argc, char *argv[])
 	float lastTower = 0.0;
 	float lastRemovalGiven = 0.0;
 
-	int waveInterval = 2;
+	int waveInterval = 5;
 	int towerInterval = 10;
 	int removalInterval = 7;
 
