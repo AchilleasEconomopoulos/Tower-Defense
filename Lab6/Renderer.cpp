@@ -1113,7 +1113,7 @@ void Renderer::addPirateWave(int life) {
 #endif
 
 #ifdef standardSpacing
-		m_pirate_spawntimes.push_back(m_continous_time + r1*0.2);
+		m_pirate_spawntimes.push_back(m_continous_time + r1*0.5);
 #endif
 		m_pirate_lives.push_back(5 + life);
 

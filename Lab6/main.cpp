@@ -309,7 +309,7 @@ int main(int argc, char *argv[])
 
 		if (!(currentWave > totalWaves)) {
 			if (lastWave == 0.0 || m_continous_time - lastWave > waveInterval) {
-				renderer->addPirateWave(currentWave*2);
+				renderer->addPirateWave(currentWave);
 				lastWave = m_continous_time;
 				currentWave++;
 			}
