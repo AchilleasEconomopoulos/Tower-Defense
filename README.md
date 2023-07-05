@@ -18,6 +18,9 @@ As the project's file structure was already preset and a lot of the OpenGL confi
 - Implement collision detection.
 - Implement the logic of the game.
 
+## Keys
+- Press T to place a tower if one is available in the tower pool.
+- Press R to remove a tower and put it back into the tower pool.
 
 <br></br>
 #### For further information, the full description of the project can be found **[here](CG_Project_2019.pdf)**.
